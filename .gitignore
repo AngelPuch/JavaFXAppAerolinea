@@ -1,0 +1,24 @@
+# === Archivos compilados y temporales ===
+*.class
+*.log
+
+# === Maven ===
+target/
+
+# === NetBeans ===
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# === IDEs generales ===
+*.iml
+.idea/
+.vscode/
+out/
+
+# === Archivos del sistema operativo ===
+.DS_Store
+Thumbs.db
